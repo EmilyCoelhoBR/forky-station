@@ -17,15 +17,12 @@
             !type:NanotrasenNameGenerator
             prefixCreator: '14'
         - type: StationEmergencyShuttle
-          emergencyShuttlePath: /Maps/Shuttles/emergency_box.yml
+          emergencyShuttlePath: /Maps/Shuttles/emergency_raven.yml
         - type: StationJobs
           availableJobs:
             #service
             Captain: [ 1, 1 ]
-            NanotrasenRepresentative: [ 1, 1 ]
             HeadOfPersonnel: [ 1, 1 ]
-            Magistrate: [ 1, 1 ]
-            InternalAffairsAgent: [ 3, 3 ]
             Bartender: [ 2, 2 ]
             Botanist: [ 3, 4 ]
             Chaplain: [ 1, 1 ]
@@ -46,7 +43,6 @@
             #science
             ResearchDirector: [ 1, 1 ]
             Scientist: [ 6, 6 ]
-            Roboticist: [ 2, 2 ]
             ResearchAssistant: [ 5, 5 ]
             #security
             HeadOfSecurity: [ 1, 1 ]
@@ -57,7 +53,6 @@
             Lawyer: [ 3, 3 ]
             #supply
             Quartermaster: [ 1, 1 ]
-            SalvageSpecialist: [ 4, 4 ]
             CargoTechnician: [ 7, 7 ]
             #civilian
             Passenger: [ -1, -1 ]
@@ -66,12 +61,5 @@
             Musician: [ 3, 3 ]
             Reporter: [ 1, 1 ]
             #silicon
-            StationAi: [ 1, 1 ]
-            Borg: [ 6, 6 ]
-
-        # Goobstation blob-config-start HUGE
-        - type: StationBlobConfig
-          stageBegin: 40
-          stageCritical: 450
-          stageTheEnd: 900
-        # backmen blob-config-end
+            Borg: [ 6, 7 ]
+            #StationAI [ 1, 1 ]

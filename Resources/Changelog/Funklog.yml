@@ -458,4 +458,13 @@
   id: 51
   time: '2026-09-07T13:29:24Z'
   url: https://github.com/funky-station/forky-station/pull/419
+- author: AraiMaia
+  changes:
+  - message: Resprote the paper inhands to be more in line with our style.
+    type: Tweak
+  - message: Added the missing inhands sprites for envelopes, and folders.
+    type: Fix
+  id: 52
+  time: '2026-09-07T13:31:44Z'
+  url: https://github.com/funky-station/forky-station/pull/426
 Order: -1

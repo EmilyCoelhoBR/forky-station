@@ -437,4 +437,11 @@
   id: 48
   time: '2026-09-07T12:04:52Z'
   url: https://github.com/funky-station/forky-station/pull/343
+- author: battlecruiser12
+  changes:
+  - message: Ported the Christmas tree resprite from Funky
+    type: Add
+  id: 49
+  time: '2026-09-07T13:24:30Z'
+  url: https://github.com/funky-station/forky-station/pull/310
 Order: -1

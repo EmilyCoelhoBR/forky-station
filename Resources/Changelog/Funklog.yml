@@ -451,4 +451,11 @@
   id: 50
   time: '2026-09-07T13:27:08Z'
   url: https://github.com/funky-station/forky-station/pull/425
+- author: not-macaw
+  changes:
+  - message: Taco resprite
+    type: Tweak
+  id: 51
+  time: '2026-09-07T13:29:24Z'
+  url: https://github.com/funky-station/forky-station/pull/419
 Order: -1

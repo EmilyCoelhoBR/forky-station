@@ -444,4 +444,11 @@
   id: 49
   time: '2026-09-07T13:24:30Z'
   url: https://github.com/funky-station/forky-station/pull/310
+- author: VectorAssembly, AraiMaia
+  changes:
+  - message: Ported & added new sprites for tables and air vents.
+    type: Add
+  id: 50
+  time: '2026-09-07T13:27:08Z'
+  url: https://github.com/funky-station/forky-station/pull/425
 Order: -1

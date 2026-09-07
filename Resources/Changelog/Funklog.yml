@@ -467,4 +467,11 @@
   id: 52
   time: '2026-09-07T13:31:44Z'
   url: https://github.com/funky-station/forky-station/pull/426
+- author: Tomlolo
+  changes:
+  - message: Rubber stamps now have inhand textures again
+    type: Fix
+  id: 53
+  time: '2026-09-07T13:37:52Z'
+  url: https://github.com/funky-station/forky-station/pull/413
 Order: -1

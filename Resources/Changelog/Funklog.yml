@@ -430,4 +430,11 @@
   id: 47
   time: '2026-09-06T22:27:03Z'
   url: https://github.com/funky-station/forky-station/pull/430
+- author: salpphie, ReconPangolin
+  changes:
+  - message: Server rules
+    type: Add
+  id: 48
+  time: '2026-09-07T12:04:52Z'
+  url: https://github.com/funky-station/forky-station/pull/343
 Order: -1

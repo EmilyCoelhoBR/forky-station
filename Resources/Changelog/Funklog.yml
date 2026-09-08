@@ -505,4 +505,13 @@
   id: 56
   time: '2026-09-08T16:42:55Z'
   url: https://github.com/funky-station/forky-station/pull/427
+- author: TrixxedHeart, AraiMaia
+  changes:
+  - message: Added sprinting.
+    type: Add
+  - message: Default movement is now walking.
+    type: Tweak
+  id: 57
+  time: '2026-09-08T16:46:33Z'
+  url: https://github.com/funky-station/forky-station/pull/414
 Order: -1

@@ -514,4 +514,11 @@
   id: 57
   time: '2026-09-08T16:46:33Z'
   url: https://github.com/funky-station/forky-station/pull/414
+- author: battlecruiser12
+  changes:
+  - message: Added spawners for ducks and chickens
+    type: Add
+  id: 58
+  time: '2026-09-08T16:48:34Z'
+  url: https://github.com/funky-station/forky-station/pull/381
 Order: -1

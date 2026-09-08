@@ -495,4 +495,14 @@
   id: 55
   time: '2026-09-08T16:17:07Z'
   url: https://github.com/funky-station/forky-station/pull/437
+- author: mycobiota
+  changes:
+  - message: Made the color of interaction outlines on objects customizable via the
+      accessibility tab in the player's options.
+    type: Add
+  - message: Added a "Reset to default" button to color sliders in the player's options.
+    type: Add
+  id: 56
+  time: '2026-09-08T16:42:55Z'
+  url: https://github.com/funky-station/forky-station/pull/427
 Order: -1

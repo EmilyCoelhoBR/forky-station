@@ -484,4 +484,15 @@
   id: 54
   time: '2026-09-07T19:54:58Z'
   url: https://github.com/funky-station/forky-station/pull/269
+- author: taydeo, Teasq, pirakaplant
+  changes:
+  - message: Added wallets. (Sprites by Teasq!)
+    type: Add
+  - message: Senior IDs are no longer obtainable.
+    type: Remove
+  - message: Wallets replace PDAs for all non-Command personnel, except the Commandant.
+    type: Tweak
+  id: 55
+  time: '2026-09-08T16:17:07Z'
+  url: https://github.com/funky-station/forky-station/pull/437
 Order: -1

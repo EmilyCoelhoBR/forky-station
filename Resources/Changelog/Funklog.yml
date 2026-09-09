@@ -521,4 +521,12 @@
   id: 58
   time: '2026-09-08T16:48:34Z'
   url: https://github.com/funky-station/forky-station/pull/381
+- author: AraiMaia
+  changes:
+  - message: 'New sprites for: Reagent Grinder, Electrolyzer, Hotplate, Centrifuge,
+      Arcades, Cell Charger'
+    type: Add
+  id: 59
+  time: '2026-09-09T08:15:31Z'
+  url: https://github.com/funky-station/forky-station/pull/406
 Order: -1

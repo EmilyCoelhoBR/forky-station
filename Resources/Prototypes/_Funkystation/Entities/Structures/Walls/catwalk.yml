@@ -10,11 +10,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: dark
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: dark
   - type: Transform
     anchored: true
@@ -60,11 +60,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: dark_open
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: dark_open
   - type: Transform
     anchored: true
@@ -110,11 +110,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: gray
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: gray
   - type: Transform
     anchored: true
@@ -160,11 +160,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: gray_open
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: gray_open
   - type: Transform
     anchored: true
@@ -210,11 +210,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: white
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: white
   - type: Transform
     anchored: true
@@ -260,11 +260,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: white_open
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: white_open
   - type: Transform
     anchored: true
@@ -310,11 +310,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: smooth
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: smooth
   - type: Transform
     anchored: true
@@ -360,11 +360,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: dark_warning
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: dark_warning
   - type: Transform
     anchored: true
@@ -410,11 +410,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: dark_warning_open
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: dark_warning_open
   - type: Transform
     anchored: true
@@ -460,11 +460,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: titanium
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: titanium
   - type: Transform
     anchored: true
@@ -510,11 +510,11 @@
     - Anchorable
   - type: Clickable
   - type: Sprite
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: glas
     drawdepth: FloorTiles
   - type: Icon
-    sprite: _Funkystation/Structures/catwalk.rsi
+    sprite: _Funkystation/Structures/Walls/catwalk.rsi
     state: glas
   - type: Transform
     anchored: true

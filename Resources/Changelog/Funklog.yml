@@ -537,4 +537,11 @@
   id: 60
   time: '2026-09-09T08:42:32Z'
   url: https://github.com/funky-station/forky-station/pull/408
+- author: mkanke
+  changes:
+  - message: Glass sheets now break when dropped or thrown
+    type: Tweak
+  id: 61
+  time: '2026-09-09T08:59:58Z'
+  url: https://github.com/funky-station/forky-station/pull/334
 Order: -1

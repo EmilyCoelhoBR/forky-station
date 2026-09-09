@@ -529,4 +529,12 @@
   id: 59
   time: '2026-09-09T08:15:31Z'
   url: https://github.com/funky-station/forky-station/pull/406
+- author: AraiMaia
+  changes:
+  - message: New sprites for Game Boards, Crayons, Furniture, Sinks, Racks, Bike Horn,
+      Mirrors
+    type: Add
+  id: 60
+  time: '2026-09-09T08:42:32Z'
+  url: https://github.com/funky-station/forky-station/pull/408
 Order: -1

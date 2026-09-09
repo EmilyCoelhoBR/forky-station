@@ -544,4 +544,11 @@
   id: 61
   time: '2026-09-09T08:59:58Z'
   url: https://github.com/funky-station/forky-station/pull/334
+- author: AraiMaia
+  changes:
+  - message: New sprites for Cardboard Boxes, Mail, Restock Boxes
+    type: Add
+  id: 62
+  time: '2026-09-09T09:14:54Z'
+  url: https://github.com/funky-station/forky-station/pull/407
 Order: -1

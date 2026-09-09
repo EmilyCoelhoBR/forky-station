@@ -14,9 +14,6 @@
     bodyType: Static
   - type: InteractionOutline
   - type: Repairable
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: FlimsyMetallic
   - type: Climbable
   - type: RCDDeconstructable
     cost: 20 # Funkystation

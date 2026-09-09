@@ -11,9 +11,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: dark_stairs_1
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -47,9 +44,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: dark_stairs_2
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -83,9 +77,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: gray_stairs_1
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -119,9 +110,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: gray_stairs_2
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -155,9 +143,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: white_stairs_1
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -191,9 +176,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: white_stairs_2
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -227,9 +209,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: warning_stairs_1
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -263,9 +242,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: warning_stairs_2
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -299,9 +275,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: wood_stairs_1
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:
@@ -335,9 +308,6 @@
   - type: Sprite
     sprite: _Funkystation/Structures/Walls/platform_stairs_end.rsi
     state: wood_stairs_2
-  - type: Damageable
-    damageContainer: StructuralInorganic
-    damageModifierSet: Metallic
   - type: Destructible
     thresholds:
     - trigger:

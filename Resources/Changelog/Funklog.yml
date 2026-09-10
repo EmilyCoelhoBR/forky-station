@@ -582,4 +582,11 @@
   id: 66
   time: '2026-09-09T22:18:44Z'
   url: https://github.com/funky-station/forky-station/pull/446
+- author: Joaco545
+  changes:
+  - message: Added the NCPL Guidebook entry
+    type: Add
+  id: 67
+  time: '2026-09-10T02:46:13Z'
+  url: https://github.com/funky-station/forky-station/pull/429
 Order: -1

@@ -621,4 +621,11 @@
   id: 71
   time: '2026-09-10T08:44:10Z'
   url: https://github.com/funky-station/forky-station/pull/417
+- author: DrSmugleaf, stinkiestdog, AraiMaia
+  changes:
+  - message: Ported chat stacking from RMC! Thank you DrSmugleaf!
+    type: Add
+  id: 72
+  time: '2026-09-10T08:50:53Z'
+  url: https://github.com/funky-station/forky-station/pull/421
 Order: -1

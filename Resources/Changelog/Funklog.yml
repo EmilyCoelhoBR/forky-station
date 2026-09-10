@@ -614,4 +614,11 @@
   id: 70
   time: '2026-09-10T07:09:18Z'
   url: https://github.com/funky-station/forky-station/pull/454
+- author: AraiMaia, VectorAssembly
+  changes:
+  - message: Added molotovs. Use a piece of cloth on a glass bottle to create one.
+    type: Add
+  id: 71
+  time: '2026-09-10T08:44:10Z'
+  url: https://github.com/funky-station/forky-station/pull/417
 Order: -1

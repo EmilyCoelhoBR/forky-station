@@ -628,4 +628,13 @@
   id: 72
   time: '2026-09-10T08:50:53Z'
   url: https://github.com/funky-station/forky-station/pull/421
+- author: Reconpangolin
+  changes:
+  - message: Added prisoner radio channel
+    type: Add
+  - message: Adjusted the salvage magnet and ore processor for prisoner
+    type: Tweak
+  id: 73
+  time: '2026-09-10T09:55:07Z'
+  url: https://github.com/funky-station/forky-station/pull/342
 Order: -1

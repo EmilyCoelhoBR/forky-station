@@ -607,4 +607,11 @@
   id: 69
   time: '2026-09-10T05:23:22Z'
   url: https://github.com/funky-station/forky-station/pull/451
+- author: willowzeta
+  changes:
+  - message: Greencomms are intercom-only again.
+    type: Tweak
+  id: 70
+  time: '2026-09-10T07:09:18Z'
+  url: https://github.com/funky-station/forky-station/pull/454
 Order: -1
